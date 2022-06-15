@@ -41,7 +41,7 @@
     </div>
     <div>
         <h3>
-            Where the magic happens:
+            WHERE THE MAGIC HAPPENS:
         </h3>
         <p>
             <img src="./realimg/visualstudio_code-icon.svg" width="22px" alt="">
