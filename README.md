@@ -11,7 +11,7 @@
     </div>
     <div>
         <h3>
-            My lenguage and tools:
+            MY LENGUAGES AND TOOLS:
         </h3>
         <p>
             <img src="./realimg/w3_html5-icon.svg" width="22px" alt="">
