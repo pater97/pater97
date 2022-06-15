@@ -27,6 +27,19 @@
         </p>
     </div>
     <div>
+      <h3>
+         IN PROGRESS...
+      </h3>
+      <ul>
+         <li>nodeJs</li>
+         <li>ExpressJs</li>
+         <li>AdonisJs</li>
+         <li>MongoDb</li>
+         <li>GraphQl</li>
+         <li>Typescript</li>
+      </ul>
+    </div>
+    <div>
         <h3>
             Where the magic happens:
         </h3>
