@@ -37,6 +37,7 @@
          <li>MongoDb</li>
          <li>GraphQl</li>
          <li>Typescript</li>
+         <li>React/ React native</li>
       </ul>
     </div>
     <div>
