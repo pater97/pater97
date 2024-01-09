@@ -3,7 +3,7 @@
     </h1>
     <hr>
     <h2>
-        jr. Full Stack Web Developer, who works hard every day to leave the "junior" behind. 🎓
+        Front end developer who works hard every day to become wizard 🧙🏼🪄
     </h2>
     <div>
         <span>Connect with me 👉</span>
@@ -11,34 +11,34 @@
     </div>
     <div>
         <h3>
-            MY LENGUAGES AND TOOLS:
+            THE TECHNOLOGIES AND TOOLS I HAVE USED:
         </h3>
         <p>
-            <img src="./realimg/w3_html5-icon.svg" width="22px" alt="">
-            <img src="./realimg/w3_css-icon.svg" width="22px" alt="">
-            <img src="./realimg/getbootstrap-icon.svg" width="22px" alt="">
-            <img src="./realimg/sass-lang-icon.svg" width="22px" alt="">
-            <img src="./realimg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="22px" alt="">
-            <img src="./realimg/vuejs-icon.svg" width="22px" alt="">
-            <img src="./realimg/php-icon.svg" width="22px" alt="">
-            <img src="./realimg/laravel-icon.svg" width="22px" alt="">
-            <img src="./realimg/mysql-official.svg" height="30px" alt="">
-            <img src="./realimg/getpostman-icon (1).svg" width="22px" alt="">
+            <ul>
+               <li>HTML</li>
+               <li>CSS</li>
+               <li>SASS</li>
+               <li>JAVASCRIPT</li>
+               <li>TYPESCRIPT</li>
+               <li>REACT</li>
+               <li>REDUX</li>
+               <li>ANGULAR</li>
+               <li>VUEJS</li>
+               <li>REACT NATIVE</li>
+               <li>EXPO</li>
+               <li>NODEJS</li>
+               <li>EXPRESS.JS</li>
+               <li>ADONIS.JS</li>
+               <li>PHP</li>
+               <li>LARAVEL</li>
+               <li>MONGODB</li>
+               <li>MYSQL</li>
+               <li>WEBSOCKET</li>
+               <li>GIT</li>
+               <li>PHOTOSHOP</li>
+               <li>FIGMA</li>
+         </ul>
         </p>
-    </div>
-    <div>
-      <h3>
-         IN PROGRESS...
-      </h3>
-      <ul>
-         <li>nodeJs</li>
-         <li>ExpressJs</li>
-         <li>AdonisJs</li>
-         <li>MongoDb</li>
-         <li>GraphQl</li>
-         <li>Typescript</li>
-         <li>React/ React native</li>
-      </ul>
     </div>
     <div>
         <h3>
